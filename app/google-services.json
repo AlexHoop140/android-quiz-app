@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598258644747",
+    "project_id": "quizonline-383a1",
+    "storage_bucket": "quizonline-383a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598258644747:android:c5773bcc551a629c96140e",
+        "android_client_info": {
+          "package_name": "com.example.quizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Wo5P4U0NYSEflQRlRWftH3LuHEZu6gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
